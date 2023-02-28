@@ -1,0 +1,1 @@
+amo meu namorado lindão

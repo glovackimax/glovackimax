@@ -8,13 +8,20 @@
 - 😄 Pronouns: **He / she**
 - 🐈 Fun Fact: **I am gender fluid - nb**
 
+<br>
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glovackimax&show_icons=true&locale=en&layout=compact" alt="glovackimax" /></p>
 
-<br>
+
 
 <h3 align="left">Social links:</h3>
 <p align="left">
 <a href="https://instagram.com/maria.glovacki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maria.glovacki" height="30" width="40" /></a>
+<a href="https://tiktok.com/@m4x.m33" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/61/tiktok.svg" alt="m4x.m33" height="30" width="40" /></a>
+  
+  
+  
 </p>
 
 
